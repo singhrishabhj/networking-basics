@@ -48,10 +48,11 @@ A beginner-friendly guide to **computer networking** concepts. This repository c
 ## Recommended Networking Resources
 
 ### Books
-- **Computer Networking: A Top-Down Approach** – Kurose & Ross
+- **Computer Networking: A Top-Down Approach** – Kurose & Ross 
 - **Networking All-in-One For Dummies** – Doug Lowe
 - **TCP/IP Illustrated** – W. Richard Stevens
 - **CCNA 200-301 Official Cert Guide** – Wendell Odom
+- **Data Communication & Networking** - Behrouz A. Forouzan
 
 ### Video Courses
 - **Cisco Networking Academy** – [netacad.com](https://www.netacad.com)
